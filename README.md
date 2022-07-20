@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
+
 <!--
 **comicom/comicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
