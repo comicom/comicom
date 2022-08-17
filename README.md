@@ -62,7 +62,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 날짜: 2021.05.
 * 내용
   * 가천대학교 INES lab 학부연구생 프로젝트
-  * NVIDIA 상용보드 JETSON XAVIER 및 arduino 보드 사용
+  * NVIDIA JETSON XAVIER  및 arduino 보드 사용
   * JETSON XAVIER 및 arduino 간 RS231 통신 구현
   * linux 환경에서 C/C++ 기반으로 YOLO 모델을 활용한 브레이크 제어 시스템 개발
 * 링크: https://www.youtube.com/watch?v=i7IYz7yEsfM&t=188s
