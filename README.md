@@ -50,6 +50,10 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 날짜: 2020.08.
 * 내용
   * 가천대학교 INES lab 학부연구생 논문
+  * 임의의 PCB 결점 이미지 생성
+  * 임의의 PCB 결점 이미지 노이즈 발생
+  * 오토인코더를 참고한 모델 제작
+  * 이미지 감산 기법을 활용하여 PCB 불량 검출
 * 링크: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10448432
 
 #### driving object detection and break system (ADAS)
@@ -57,6 +61,9 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 날짜: 2021.05.
 * 내용
   * 가천대학교 INES lab 학부연구생 프로젝트
+  * NVIDIA 상용보드 JETSON XAVIER 및 arduino 보드 사용
+  * JETSON XAVIER 및 arduino 간 RS231 통신 구현
+  * linux 환경에서 C/C++ 기반으로 YOLO 모델을 활용한 브레이크 제어 시스템 개발
 * 링크: https://www.youtube.com/watch?v=i7IYz7yEsfM&t=188s
 
 #### 광원모듈통신제어 using rs231
@@ -65,7 +72,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 내용
   * 가천대학교 바이오-인공지능 융합과정 프로젝트
   * 협약업체 엠지비엔도스코피의 내시경 장비 사용
-  * embedded windows환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신을 진행하여 내시경 광원 제어
+  * embedded windows 환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신을 진행, 내시경 광원 및 Fan 제어
 * 링크: https://www.youtube.com/watch?v=SpnzI7y3EVI
 
 
