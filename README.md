@@ -6,7 +6,7 @@
 
 https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
-## 기술스택
+### 기술스택
 
 - 언어
   - C/C++
