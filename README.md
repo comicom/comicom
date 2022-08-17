@@ -8,11 +8,15 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 ### 기술스택
 
+- 플랫폼
+  - POSIX기반 운영체제
+  - Linux
 - 언어
   - C/C++
   - Cython
   - Python
   - MATLAB
+  - MFC
 - DevOps
   - Docker
 - 협업
@@ -25,7 +29,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 |명지전문대학교|2016.02.~2018.06.|정보통신과 중퇴|
 |가천대학교|2019.02.~2021.06.|의용생체공학과 졸업|
 |가천대학교|2020.02.~2021.06.|바이오-인공지능 융합과정 진행|
-|학부연구생|2019.06.~2021.06.|의료영상 및 영상처리 기반 AI 프로젝트 진행|
+|학부연구생|2019.06.~2021.06.|가천대학교 INES lab에서 의료영상 및 영상처리 기반 AI 프로젝트 진행|
 
 ### 프로젝트 및 논문
 
@@ -34,28 +38,34 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 날짜: 2019.12. ~ 2020.1.
 * 내용
   * 가천대학교 Artechne센터주관 G-Software Challenge 최우수상 수상
+  * python 기반으로 tensorflow, keras, openCV 등의 라이브러리를 응용하여 jupiter notebook 환경에서 제작
   * A~Z 중 동작이 포함된 J와 Z를 제외한 34개의 지문자 이미지 생성 및 전처리
   * MNIST 모델을 참고한 간단한 모델 제작
-  * 웹캠을 연결하여 실시간으로 지문자 인식
-  * python 기반으로 tensorflow, keras, openCV 라이브러리를 응용하여 jupiter notebook 환경에서 
+  * 웹캠을 연결하여 영상을 입력받은 후 전처리과정 진행
+  * 모델에 넣은 후 실시간으로 지문자 출력
 * 링크: https://youtu.be/WC1y5WXKoxU
 
 #### 오토인코더 모델과 이미지 감산 기법을 활용한 비지도 PCB 불량 검출 시스템
 
 * 날짜: 2020.08.
-* 내용: 
+* 내용
+  * 가천대학교 INES lab 학부연구생 논문
 * 링크: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10448432
 
 #### driving object detection and break system (ADAS)
 
 * 날짜: 2021.05.
-* 내용: 
+* 내용
+  * 가천대학교 INES lab 학부연구생 프로젝트
 * 링크: https://www.youtube.com/watch?v=i7IYz7yEsfM&t=188s
 
 #### 광원모듈통신제어 using rs231
 
 * 날짜: 2021.03.~2021.06.
-* 내용: 
+* 내용
+  * 가천대학교 바이오-인공지능 융합과정 프로젝트
+  * 협약업체 엠지비엔도스코피의 내시경 장비 사용
+  * embedded windows환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신을 진행하여 내시경 광원 제어
 * 링크: https://www.youtube.com/watch?v=SpnzI7y3EVI
 
 
