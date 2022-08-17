@@ -32,7 +32,12 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 #### 농아인聾啞人들을 위한 수화의 수형 번역 프로그램 - sign language recognition using deep learning for the deaf
 
 * 날짜: 2019.12. ~ 2020.1.
-* 내용: 가천대학교 Artechne센터주관 G-Software Challenge 최우수상 수상
+* 내용
+  * 가천대학교 Artechne센터주관 G-Software Challenge 최우수상 수상
+  * A~Z 중 동작이 포함된 J와 Z를 제외한 34개의 지문자 이미지 생성 및 전처리
+  * MNIST 모델을 참고한 간단한 모델 제작
+  * 웹캠을 연결하여 실시간으로 지문자 인식
+  * python 기반으로 tensorflow, keras, openCV 라이브러리를 응용하여 jupiter notebook 환경에서 
 * 링크: https://youtu.be/WC1y5WXKoxU
 
 #### 오토인코더 모델과 이미지 감산 기법을 활용한 비지도 PCB 불량 검출 시스템
