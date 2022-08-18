@@ -30,7 +30,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 #### 열화상카메라를 이용한 영상처리
 
-* 날짜: 2019.8.~2029.12.
+* 날짜: 2019.8.~2019.12.
 * 내용:
   * 가천대학교 바이오-인공지능 융합과정 프로젝트
   * 열화상카메라를 연결하여 영상을 입력받은 후 python 기반으로 openCV를 이용하여 전처리 진행
@@ -49,7 +49,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 #### 오토인코더 모델과 이미지 감산 기법을 활용한 비지도 PCB 불량 검출 시스템
 
-* 날짜: 2020.08. 4학년 2학기
+* 날짜: 2020.08.
 * 내용
   * 가천대학교 INES lab 학부연구생 논문
   * 임의의 PCB 결점 이미지 생성
