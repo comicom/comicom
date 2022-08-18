@@ -13,6 +13,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 - `AI/ML 프레임워크` tensorflow, keras
 - `DevOps` Docker
 - `협업` git
+- `기타` wireshark
 
 ### 현역
 
