@@ -29,7 +29,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 #### 농아인聾啞人들을 위한 수화의 수형 번역 프로그램 - sign language recognition using deep learning for the deaf
 
-* 날짜: 2019.12. ~ 2020.1.
+* 날짜: 2019.12.~2020.1.
 * 내용
   * 가천대학교 Artechne센터주관 G-Software Challenge 최우수상 수상
   * windows 환경에서 python 기반으로 tensorflow, keras, openCV 등의 라이브러리를 응용하여 jupiter notebook 환경에서 제작
@@ -41,7 +41,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 #### 오토인코더 모델과 이미지 감산 기법을 활용한 비지도 PCB 불량 검출 시스템
 
-* 날짜: 2020.08.
+* 날짜: 2020.08. 4학년 2학기
 * 내용
   * 가천대학교 INES lab 학부연구생 논문
   * 임의의 PCB 결점 이미지 생성
@@ -52,7 +52,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 #### driving object detection and break system (ADAS)
 
-* 날짜: 2021.05.
+* 날짜: 2020.08.~2021.01. 
 * 내용
   * 가천대학교 INES lab 학부연구생 프로젝트
   * NVIDIA JETSON XAVIER  및 arduino 보드 사용
@@ -62,7 +62,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 #### 광원모듈통신제어 using rs231
 
-* 날짜: 2021.03.~2021.06.
+* 날짜: 2020.08.~2021.06.
 * 내용
   * 가천대학교 바이오-인공지능 융합과정 프로젝트
   * 협약업체 엠지비엔도스코피 내시경 장비 사용
