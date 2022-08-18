@@ -8,7 +8,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 ### 기술스택
 
-- `플랫폼` POSIX기반 운영체제, Linux
+- `플랫폼` POSIX기반 운영체제(Linux, raspberry pi, etc...)
 - `언어` C/C++, Cython, Python, MATLAB, MFC
 - `DevOps` Docker
 - `협업` git
@@ -63,7 +63,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 날짜: 2021.03.~2021.06.
 * 내용
   * 가천대학교 바이오-인공지능 융합과정 프로젝트
-  * 협약업체 엠지비엔도스코피의 내시경 장비 사용
+  * 협약업체 엠지비엔도스코피 내시경 장비 사용
   * embedded windows 환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신을 진행, 내시경 광원 및 Fan 제어
 * 링크: https://www.youtube.com/watch?v=SpnzI7y3EVI
 
