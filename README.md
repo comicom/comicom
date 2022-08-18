@@ -75,7 +75,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 내용
   * 가천대학교 바이오-인공지능 융합과정 프로젝트
   * 협약업체 엠지비엔도스코피 내시경 장비 사용
-  * embedded windows 환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신을 진행, 내시경 광원 및 Fan 제어
+  * embedded windows 환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신, 내시경 광원 및 Fan 제어, 광원 모듈 상태 출력
 * 링크: https://www.youtube.com/watch?v=SpnzI7y3EVI
 
 
