@@ -11,6 +11,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 - `플랫폼` POSIX기반 운영체제(Linux, nvidia, raspberry pi, etc...)
 - `언어` C/C++, Cython, Python, MATLAB, MFC
 - `AI/ML 프레임워크` tensorflow, keras
+- `통신` CAN, Ethernet, RS231
 - `DevOps` Docker
 - `협업` git
 - `기타` wireshark
