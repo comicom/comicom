@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 ### 기술스택
 
 - `플랫폼` POSIX기반 운영체제(Linux, nvidia, raspberry pi, etc...)
-- `통신` CAN, Ethernet, RS231
+- `통신` CAN, Ethernet, RS232
 - `언어` C/C++, Cython, Python, MATLAB, MFC
 - `AI/ML 프레임워크` tensorflow, keras
 - `DevOps` Docker
@@ -66,7 +66,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
   * 가천대학교 INES lab 학부연구생 프로젝트
   * NVIDIA JETSON XAVIER  및 arduino 보드 사용
   * linux 환경에서 C/C++ 기반으로 YOLO 모델을 활용한 브레이크 제어 시스템 구현
-    * JETSON XAVIER 및 arduino 간 RS231 통신 구현
+    * JETSON XAVIER 및 arduino 간 RS232 통신 구현
     * 웹캠을 이용한 상대거리 알고리즘 구현
     * 칼만필터를 활용한 트래킹 알고리즘 구현
 * 링크: https://www.youtube.com/watch?v=i7IYz7yEsfM&t=188s
@@ -77,7 +77,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 내용
   * 가천대학교 바이오-인공지능 융합과정 프로젝트
   * 협약업체 엠지비엔도스코피 내시경 장비 사용
-  * embedded windows 환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS231 통신, 내시경 광원 및 Fan 제어, 광원 모듈 상태 출력
+  * embedded windows 환경에서 C/C++ 기반으로 터치 그래픽이 있는 MFC를 작성하여 RS232 통신, 내시경 광원 및 Fan 제어, 광원 모듈 상태 출력
 * 링크: https://www.youtube.com/watch?v=SpnzI7y3EVI
 
 
