@@ -65,7 +65,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 * 내용
   * 가천대학교 INES lab 학부연구생 프로젝트
   * NVIDIA JETSON XAVIER  및 arduino 보드 사용
-  * linux 환경에서 C/C++ 기반으로 YOLO 모델을 활용한 브레이크 제어 시스템 구현
+  * NVIDIA JETSON SDK 환경에서 C/C++ 기반으로 YOLO 모델을 활용한 브레이크 제어 시스템 구현
     * JETSON XAVIER 및 arduino 간 RS232 통신 구현
     * 웹캠을 이용한 상대거리 알고리즘 구현
     * 칼만필터를 활용한 트래킹 알고리즘 구현
