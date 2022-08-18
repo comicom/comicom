@@ -27,6 +27,13 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 ### 프로젝트 및 논문
 
+#### 열화상카메라를 이용한 영상처리
+
+* 날짜: 2019.8.~2029.12.
+* 내용:
+  * 가천대학교 바이오-인공지능 융합과정 프로젝트
+  * 열화상카메라를 연결하여 영상을 입력받은 후 python 기반으로 openCV를 이용하여 전처리 진행
+
 #### 농아인聾啞人들을 위한 수화의 수형 번역 프로그램 - sign language recognition using deep learning for the deaf
 
 * 날짜: 2019.12.~2020.1.
