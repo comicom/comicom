@@ -6,6 +6,8 @@
 
 https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
+임베디드 기반 Linux Platform에서 C/C++ 및 Python 언어를 주력으로 운영체제, 네트워크, 컴퓨터비전(영상처리 및 AI)에 관심이 많은 개발자
+
 ### 기술스택
 
 - `플랫폼` POSIX기반 운영체제(Linux, nvidia, raspberry pi, etc...)
