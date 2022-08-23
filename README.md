@@ -4,10 +4,10 @@
 
 ### 개요
 
-https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
-
 - 임베디드 운영체제, 네트워크, 컴퓨터비전(영상처리 및 AI)에 관심이 많은 개발자
 - POSIX기반 운영체제에서 C/C++ 및 Python 언어를 주력으로 개발
+
+https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 ### 기술스택
 
