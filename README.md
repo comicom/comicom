@@ -12,7 +12,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 ### 기술스택
 
 - `플랫폼` POSIX기반 운영체제(Linux, nvidia, raspberry pi, etc...)
-- `통신` CAN, Ethernet, RS232
+- `통신` Ethernet, CAN, RS232
 - `언어` C/C++, Cython, Python, MATLAB, MFC
 - `AI/ML 프레임워크` tensorflow, keras
 - `DevOps` Docker
