@@ -13,7 +13,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 - `OS` POSIX기반 운영체제(Linux, QNX, etc...)
 - `Machine` raspberry pi, nvidia, NXP, etc...
-- `통신` Ethernet, CAN, RS232
+- `통신` Ethernet(UDP,TCP, SOME/IP), CAN, RS232
 - `언어` C/C++, Cython, Python, MATLAB, MFC
 - `AI/ML 프레임워크` tensorflow, keras
 - `DevOps` Docker
