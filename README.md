@@ -33,7 +33,7 @@ https://www.youtube.com/channel/UCMG7gnRpQ0wfuDJpITNBj4A
 
 * 날짜: 2019.12.~2020.1.
 * 내용
-  * 가천대학교 Artechne센터주관 G-Software Challenge 최우수상 수상
+  * 가천대학교 Artechne센터주관 G-Software Challenge 최우수상
   * windows 환경에서 python 기반으로 tensorflow, keras, openCV 등의 라이브러리를 응용하여 jupiter notebook 환경에서 제작
   * A~Z 중 동작이 포함된 J와 Z를 제외한 34개의 지문자 이미지 생성 및 전처리
   * MNIST 모델을 참고한 간단한 모델 제작
